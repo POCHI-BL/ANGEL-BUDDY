@@ -643,6 +643,14 @@
       "groups": {
         "POCHI": "/proxy/api/imgur/chapter/DVOGNLY/"
       },
+      "last_updated": "1616368746"
+    },
+    "80.2": {
+      "title": "Capítulo Extra 2",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/ZkxU5di/"
+      },
       "last_updated": "1619043765"        
     }    
   }
